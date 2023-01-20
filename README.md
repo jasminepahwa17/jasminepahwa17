@@ -28,7 +28,7 @@ Jasmine</h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
       
         <a style="margin-left: 10px;" target="_blank" href="https://github.com">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://icons8.com/icon/sbhfmWq4KRr1/github-squared"></a>
 
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
