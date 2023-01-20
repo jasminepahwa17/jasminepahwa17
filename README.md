@@ -10,7 +10,8 @@ Reach me at **jasminepahwa4567@gmail.com**
 
 
 <br/>
-Connect with me 
+**Contact**
+
 
 - LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
 - Twitter: https://www.twitter.com/heheJass
