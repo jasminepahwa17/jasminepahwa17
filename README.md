@@ -27,7 +27,7 @@ Jasmine</h1>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jasmine-pahwa-671a681aa/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
       
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/jasminepahwa17">
 		<img src="https://icons8.com/icon/sbhfmWq4KRr1/github-squared"></a>
 
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com">
