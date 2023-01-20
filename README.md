@@ -2,11 +2,11 @@ Hey there
 
 My name is Jasmine. You can call me Jas.
 
-I am an undergraduate student studying Web Development. I am interested in Javascript and it's frameworks and have a little interest in Graphic Designing
+I am an undergraduate student studying Web Development. I am interested in Javascript and it's frameworks and Graphic Designing.
 
-I am currently learning NodeJs. Ask me about **Reactjs & ExpressJs**
+I am currently learning NodeJs and ReactJs and am available for freelancing.
 
-I’m available for freelancing. Reach me at **jasminepahwa4567@gmail.com**
+Reach me at **jasminepahwa4567@gmail.com**
 
 
 <br/>
