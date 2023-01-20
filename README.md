@@ -1,8 +1,8 @@
 Hey there
 
-My name is Jasmine
+My name is Jasmine. You can call me Jas.
 
-I am an undergraduate student studying Web Development.
+I am an undergraduate student studying Web Development. I am interested in Javascript and it's frameworks and have a little interest in Graphic Designing
 
 I am currently learning NodeJs. Ask me about **Reactjs & ExpressJs**
 
