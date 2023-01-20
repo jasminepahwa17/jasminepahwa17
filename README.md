@@ -1,6 +1,6 @@
 <h2 align="left">Hey there, I'm
 Jasmine</h2>
-<h3 align="center">A Front End developer from New Delhi</h3>
+<h4 align="left">A Front End developer from New Delhi</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
