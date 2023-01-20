@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm
+<h1 align="center">Hey there, I'm
 Jasmine</h1>
 <h3 align="center">A Front End developer from New Delhi</h3>
 
@@ -29,13 +29,13 @@ Jasmine</h1>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jasmine-pahwa-671a681aa/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
       
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/jasminepahwa17">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/jasmineaphwa_">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/heheJass">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
         
 	
