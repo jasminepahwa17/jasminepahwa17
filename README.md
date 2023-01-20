@@ -1,5 +1,7 @@
-Hey there, I'm Jasmine
-A Front End developer from New Delhi
+Hey there
+
+I'm Jasmine
+Front End developer from New Delhi
 
 <p>
 - I am an undergraduate student studying Web Development.
