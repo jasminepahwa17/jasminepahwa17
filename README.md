@@ -1,18 +1,16 @@
 Hey there
-<br/>
-I'm Jasmine
-A Front End developer from New Delhi
 
+My name is Jasmine
 
-- I am an undergraduate student studying Web Development.
+I am an undergraduate student studying Web Development.
 
-- I am currently learning NodeJs.
+I am currently learning NodeJs.
 
-- I’m available for freelancing.
+I’m available for freelancing.
 
-- Ask me about **Reactjs & ExpressJs**
+Ask me about **Reactjs & ExpressJs**
 
-- Reach me at **jasminepahwa4567@gmail.com**
+Reach me at **jasminepahwa4567@gmail.com**
 
 
 <br/>
