@@ -12,9 +12,9 @@ Reach me at **jasminepahwa4567@gmail.com**
 <br/>
 Connect with me 
 
-LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
-Twitter: https://www.twitter.com/heheJass
-Instagram: https://www.instagram.com/jasminepahwa_
+- LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
+- Twitter: https://www.twitter.com/heheJass
+- Instagram: https://www.instagram.com/jasminepahwa_
 
 
 
