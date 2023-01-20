@@ -10,15 +10,6 @@ Reach me at **jasminepahwa4567@gmail.com**
 
 
 <br/>
-
-<h6>Contact</h6>
-
-- LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
-- Twitter: https://www.twitter.com/heheJass
-- Instagram: https://www.instagram.com/jasminepahwa_
-
-
-
 <div>
 
   &nbsp;My Tech Stacks
@@ -33,4 +24,14 @@ Reach me at **jasminepahwa4567@gmail.com**
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
 </div>
+
+<h5>Contact</h5>
+
+- LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
+- Twitter: https://www.twitter.com/heheJass
+- Instagram: https://www.instagram.com/jasminepahwa_
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminepahwa17&color=green" /> </p>
