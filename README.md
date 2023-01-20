@@ -11,7 +11,7 @@ Jasmine</h2>
 
 - Ask me about **Reactjs & ExpressJs**
 
-- How to reach me **jasminepahwa4567@gmail.com**
+- Reach me at **jasminepahwa4567@gmail.com**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
