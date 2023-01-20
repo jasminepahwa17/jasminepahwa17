@@ -21,4 +21,4 @@ Jasmine</h2>
 
 </p>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=jasminepahwa17&color=green)" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminepahwa17&color=green" /> </p>
