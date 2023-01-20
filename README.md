@@ -11,7 +11,7 @@ Reach me at **jasminepahwa4567@gmail.com**
 
 <br/>
 
-<h3>Contact</h3>
+<h6>Contact</h6>
 
 - LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
 - Twitter: https://www.twitter.com/heheJass
@@ -19,5 +19,5 @@ Reach me at **jasminepahwa4567@gmail.com**
 
 
 <pre/>
-
+Technologies I have worked with
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminepahwa17&color=green" /> </p>
