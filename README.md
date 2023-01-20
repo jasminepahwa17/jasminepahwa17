@@ -18,7 +18,6 @@ Reach me at **jasminepahwa4567@gmail.com**
 - Instagram: https://www.instagram.com/jasminepahwa_
 
 
-<pre/>
 
 <div>
 
