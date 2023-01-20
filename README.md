@@ -10,14 +10,14 @@ Reach me at **jasminepahwa4567@gmail.com**
 
 
 <br/>
-**Contact**
 
+<h3>Contact</h3>
 
 - LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
 - Twitter: https://www.twitter.com/heheJass
 - Instagram: https://www.instagram.com/jasminepahwa_
 
 
-
+<pre/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminepahwa17&color=green" /> </p>
