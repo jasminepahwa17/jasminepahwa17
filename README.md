@@ -23,20 +23,5 @@ Jasmine</h1>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jasmine-pahwa-671a681aa/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-      
-        <a style="margin-left: 10px;"  href="https://github.com/jasminepahwa17">
-		<img src="https://icons8.com/icon/sbhfmWq4KRr1/github-squared"></a>
-
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-      
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-        
-	
-      </div>
 
 </p>
