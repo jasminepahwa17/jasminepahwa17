@@ -1,9 +1,9 @@
 Hey there
-
+<br/>
 I'm Jasmine
-Front End developer from New Delhi
+A Front End developer from New Delhi
 
-<p>
+
 - I am an undergraduate student studying Web Development.
 
 - I am currently learning NodeJs.
@@ -13,7 +13,7 @@ Front End developer from New Delhi
 - Ask me about **Reactjs & ExpressJs**
 
 - Reach me at **jasminepahwa4567@gmail.com**
-  </p>
+
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
