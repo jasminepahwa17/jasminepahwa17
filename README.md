@@ -1,6 +1,5 @@
-<h2 align="left">Hey there, I'm
-Jasmine</h2>
-<h4 align="left">A Front End developer from New Delhi</h4>
+Hey there, I'm Jasmine
+A Front End developer from New Delhi
 
 <p>
 - I am an undergraduate student studying Web Development.
