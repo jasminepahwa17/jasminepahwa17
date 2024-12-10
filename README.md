@@ -27,9 +27,9 @@ Reach me at **jasminepahwa4567@gmail.com**
 
 <h5>Contact</h5>
 
-- LinkedIn: https://www.linkedin.com/in/jasmine-pahwa-671a681aa
+- LinkedIn: https://www.linkedin.com/in/develooperjas
 - Twitter: https://www.twitter.com/heheJass
-- Instagram: https://www.instagram.com/jasminepahwa_
+- Instagram: https://www.instagram.com/jasexiste
 
 
 
