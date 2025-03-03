@@ -14,9 +14,10 @@
 </div>
 
 <h5>Contact</h5>
-- Email: jasminepahwa4567@gmail.com
 - LinkedIn: https://www.linkedin.com/in/develooperjas
 - Instagram: https://www.instagram.com/jasexiste
+
+- Email: jasminepahwa4567@gmail.com
 
 
 
