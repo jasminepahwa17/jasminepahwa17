@@ -16,7 +16,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-DBeaver-0D1117?style=flat&logo=dbeaver&logoColor=382923)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat&logo=tailwind-css&logoColor=06B6D4)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Jest-0D1117?style=flat&logo=jest&logoColor=C21325)&nbsp;
   
   
 </div>
