@@ -12,7 +12,12 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=007ACC)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-DBeaver-0D1117?style=flat&logo=dbeaver&logoColor=382923)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat&logo=tailwind-css&logoColor=06B6D4)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+  
   
 </div>
 
